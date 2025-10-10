@@ -1,0 +1,12 @@
+AMAZON
+AMZN
+NVIDIA
+NVDA
+Google
+Apple
+Meta
+IBM
+AMD
+Microsoft
+Tesla
+SpaceX
